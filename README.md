@@ -1,7 +1,7 @@
 # Hybrid CNN-Transformer with Dual Explainability for Multi-Label Chest X-Ray Disease Detection
 
-> **Final Year Group Project** | B.Tech / B.E. Computer Science / AI & ML  
-> Academic Year: 2024–2025
+> **Final Year Group Project** | B.Tech / AI & ML  
+> Academic Year: 2025–2026
 
 ---
 
