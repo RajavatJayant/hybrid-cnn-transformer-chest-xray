@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Dataset (too large for GitHub)
+data/
+*.png
+*.csv
+
+# Jupyter notebooks (optional: keep if you want them)
+# *.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradio temp files
+gradio_cached_examples/
+flagged/
