@@ -135,16 +135,6 @@ Evaluation uses **ROC-AUC** per disease class — the standard metric for multi-
 
 ---
 
-## 👥 Team Members
-
-| Name | Role |
-|---|---|
-| [Member 1] | Model Architecture & Training |
-| [Member 2] | Dataset Preprocessing & Evaluation |
-| [Member 3] | Grad-CAM & Explainability |
-| [Member 4] | Dashboard & Gradio App |
-
----
 
 ## ⚠️ Disclaimer
 
